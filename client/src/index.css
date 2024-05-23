@@ -1,0 +1,36 @@
+
+.btn.dropdown-toggle  {
+  width:150px;
+  text-align:left;
+}
+
+span.caret {
+  position: absolute;
+  left: 90%;
+  top: 45%;
+}
+
+label {
+  padding-top:0px;
+}
+
+.form-label {
+  padding-left:0px !important;
+}
+
+img {
+width:100%;
+
+}
+
+.btn-success {
+  background-color: #120fea!important;
+}
+
+.btn-success:hover {
+  background-color: #1a1e95!important;
+}
+
+img.track {
+  border: 1px solid #8a8a8a;
+}
